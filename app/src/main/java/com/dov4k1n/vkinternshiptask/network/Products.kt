@@ -1,12 +1,8 @@
 package com.dov4k1n.vkinternshiptask.network
 
-data class ProductsResponse(
-    val products: List<Products>,
-    val total: Int,
-    val skip: Boolean,
-    val limit: Int
-)
+import kotlinx.serialization.Serializable
 
+@Serializable
 data class Products(
     val id: Int,
     val title: String,

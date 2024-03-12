@@ -13,8 +13,8 @@ private val retrofit = Retrofit.Builder()
     .build()
 
 interface ProductsApiService {
-    @GET("/products")
-    suspend fun getProductsList(): ProductsResponse
+    @GET("products")
+    suspend fun getProductsResponse(): ProductsResponse
 }
 
 object ProductsApi {

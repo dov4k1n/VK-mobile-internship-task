@@ -26,7 +26,7 @@ class ProductsViewModel : ViewModel() {
     fun getProducts() {
         viewModelScope.launch {
             productsUiState = try {
-                val productsResponse = ProductsApi.retrofitService.getProductsList()
+                val productsResponse = ProductsApi.retrofitService.getProductsResponse()
                 val listResult = productsResponse.products
                 ProductsUiState.Success(
                     "Success: ${listResult.size} products retrieved"
