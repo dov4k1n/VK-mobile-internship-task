@@ -13,6 +13,6 @@ private val retrofit = Retrofit.Builder()
     .build()
 
 interface ProductsApiService {
-    @GET("products")
+    @GET("/products?skip=0&limit=100")
     suspend fun getProductsResponse(): ProductsResponse
 }
