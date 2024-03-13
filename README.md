@@ -4,8 +4,11 @@
 
 **Stack:** [Kotlin](https://kotlinlang.org/), [Jetpack Compose](https://developer.android.com/jetpack/compose), [Kotlin coroutines](https://developer.android.com/kotlin/coroutines), [Retrofit](https://square.github.io/retrofit/), [Coil](https://coil-kt.github.io/coil/)
 
-![App screenshot](screenshot.png =250x250)
+<img src="screenshot.png" width="500" height="500">
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/taqClwEIhps/0.jpg)](https://www.youtube.com/watch?v=taqClwEIhps)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=taqClwEIhps" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/taqClwEIhps.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 ### На русском:
 
