@@ -4,7 +4,8 @@
 
 **Stack:** [Kotlin](https://kotlinlang.org/), [Jetpack Compose](https://developer.android.com/jetpack/compose), [Kotlin coroutines](https://developer.android.com/kotlin/coroutines), [Retrofit](https://square.github.io/retrofit/), [Coil](https://coil-kt.github.io/coil/)
 
-![App screenshot](screenshot.png) ![App video record](screenrecord.webm)
+![App screenshot](screenshot.png)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/taqClwEIhps/0.jpg)](https://www.youtube.com/watch?v=taqClwEIhps)
 
 ### На русском:
 
