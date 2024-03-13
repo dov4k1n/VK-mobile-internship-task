@@ -32,9 +32,12 @@ fun App() {
                 .fillMaxSize()
                 .padding(it)
         ) {
-            val productsViewModel: ProductsViewModel = viewModel()
+            val productsViewModel: ProductsViewModel =
+                viewModel(factory = ProductsViewModel.Factory)
             HomeScreen(
-                productsUiState = productsViewModel.productsUiState)
+                productsUiState = productsViewModel.productsUiState,
+                retryAction = productsViewModel::getProducts
+            )
         }
     }
 }
