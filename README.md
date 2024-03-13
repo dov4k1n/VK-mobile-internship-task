@@ -8,6 +8,8 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/taqClwEIhps/0.jpg)](https://www.youtube.com/watch?v=taqClwEIhps)
 
+https://www.youtube.com/watch?v=taqClwEIhps
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=taqClwEIhps" target="_blank">
  <img src="http://img.youtube.com/vi/nTQUwghvy5Q/taqClwEIhps.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
